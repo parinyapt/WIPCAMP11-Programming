@@ -26,7 +26,7 @@ import java.util.Scanner;
 public class stock {
     public static void main(String[] args) {
         int item,limit,menu,amount,totalam;
-        item = 5;
+        item = 1;
         limit = 10;
         menu = 0;
         amount = 0;
