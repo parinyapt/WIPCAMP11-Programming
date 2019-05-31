@@ -36,7 +36,7 @@ public class stock {
         System.out.printf("Stock Now \n Item = %d \n Limit = %d \n\n",item,limit);
         System.out.printf("Please Select Menu? \n 1.Add Item \n 2.Remove Item \n 3.Check Stock \n\n Menu : ");
         menu = sc.nextInt();
-        System.out.printf("-------------------- \n");
+        System.out.printf("------------------------- \n");
         
         
         
